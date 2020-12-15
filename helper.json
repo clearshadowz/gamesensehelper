@@ -2,7 +2,7 @@
     "name": "clearshadowz's nades",
     "description": "Nades for Wingman style HVH",
     "locations": {
-  "de_dust": [
+  "de_shortdust": [
     {
       "name": ["Ramp", "Basket"],
       "weapon": "weapon_molotov",
