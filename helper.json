@@ -1,8 +1,8 @@
 {
     "name": "clearshadowz's nades",
     "description": "Nades for Wingman style HVH",
-    "locations": {
-  "de_shortdust": [
+    "locations":    {
+  "de_dust": [
     {
       "name": ["Ramp", "Basket"],
       "weapon": "weapon_molotov",
@@ -486,22 +486,24 @@
     },
     {
       "name": ["Garage", "Stairs [no glass]"],
+      "description": "unsafe",
       "weapon": "weapon_molotov",
-      "position": [450.11999511719, -40.273239135742, -639.96875],
-      "viewangles": [-5.5880031585693, -11.816178321838],
+      "position": [452.53561401367, -20.028047561646, -639.96875],
+      "viewangles": [-5.5221338272095, -12.195056915283],
       "grenade": {
-        "run": 13,
+        "run": 20,
         "recovery_yaw": 180,
         "run_yaw": -90
       }
     },
     {
       "name": ["Garage", "Stairs [no glass]"],
+      "description": "unsafe",
       "weapon": "weapon_hegrenade",
-      "position": [450.12451171875, -40.274806976318, -639.96875],
-      "viewangles": [-5.5000338554382, -11.736239433289],
+      "position": [452.47015380859, -20.37007522583, -639.96875],
+      "viewangles": [-6.1161279678345, -11.32316493988],
       "grenade": {
-        "run": 13,
+        "run": 19,
         "recovery_yaw": 180,
         "run_yaw": -90
       }
@@ -534,6 +536,85 @@
       "position": [1391.9735107422, -738.4677734375, -662.94403076172],
       "viewangles": [-2.794017791748, 153.86402893066],
       "duck": true
+    },
+    {
+      "name": ["Garage", "Double Doors"],
+      "description": "unsafe",
+      "weapon": "weapon_molotov",
+      "position": [759.90802001953, 5.3738880157471, -639.96875],
+      "viewangles": [3.475736618042, -106.66152954102],
+      "grenade": {
+        "run": 14,
+        "recovery_yaw": 180,
+        "run_yaw": 90
+      }
+    },
+    {
+      "name": ["Garage", "Plant"],
+      "description": "unsafe",
+      "weapon": "weapon_hegrenade",
+      "position": [831.09802246094, 95.956634521484, -639.96875],
+      "viewangles": [-2.3102407455444, -95.36637878418],
+      "grenade": {
+        "run": 12,
+        "recovery_yaw": -90
+      }
+    },
+    {
+      "name": ["Garage", "Plant"],
+      "description": "unsafe",
+      "weapon": "weapon_hegrenade",
+      "position": [461.19076538086, 95.952018737793, -639.96875],
+      "viewangles": [-3.6520671844482, -85.212882995605],
+      "grenade": {
+        "run": 10,
+        "recovery_yaw": 90
+      }
+    },
+    {
+      "name": ["Garage", "Plant"],
+      "description": "unsafe",
+      "weapon": "weapon_molotov",
+      "position": [771.79284667969, 91.338851928711, -639.96875],
+      "viewangles": [-6.4799637794495, -117.44407653809],
+      "grenade": {
+        "run": 16,
+        "recovery_yaw": 180,
+        "run_yaw": 90
+      }
+    },
+    {
+      "name": ["Garage", "Control Room"],
+      "weapon": "weapon_hegrenade",
+      "position": [759.72222900391, 5.3892755508423, -639.96875],
+      "viewangles": [-4.368052482605, -90.404541015625],
+      "grenade": {
+        "run": 12,
+        "recovery_yaw": 180,
+        "run_yaw": 90
+      }
+    },
+    {
+      "name": ["Control Room", "Garage [middle]"],
+      "description": "safe",
+      "weapon": "weapon_molotov",
+      "position": [1187.119140625, -590.14855957031, -639.96875],
+      "viewangles": [-6.1940393447876, 146.21667480469],
+      "grenade": {
+        "run": 18,
+        "recovery_yaw": -90
+      }
+    },
+    {
+      "name": ["Control Room", "Garage [middle]"],
+      "description": "unsafe",
+      "weapon": "weapon_hegrenade",
+      "position": [1060.2255859375, -479.86990356445, -597.96875],
+      "viewangles": [-0.25426125526428, 147.73498535156],
+      "grenade": {
+        "run": 6,
+        "recovery_yaw": -90
+      }
     }
   ],
   "de_overpass": [
@@ -732,8 +813,8 @@
     {
       "name": ["B Platform", "Connector [prenade]"],
       "weapon": "weapon_hegrenade",
-      "position": [-1468.4342041016, 652.65051269531, 11876.017578125],
-      "viewangles": [-6.6440095901489, -115.97229003906],
+      "position": [-1510.1141357422, 616.15460205078, 11874.53125],
+      "viewangles": [-6.3800625801086, -107.10041809082],
       "grenade": {
         "run": 20
       }
