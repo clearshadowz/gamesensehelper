@@ -854,6 +854,35 @@
   ],
   "de_vertigo": [
     {
+      "name": ["Entrance", "Fakeduck"],
+      "description": "Molotov",
+      "weapon": "weapon_molotov",
+      "position": [-2047.9874267578, -568.96105957031, 11776.03125],
+      "viewangles": [-22.477167129517, 61.914573669434]
+    },
+    {
+      "name": ["Spawn", "Fakeduckbox"],
+      "weapon": "weapon_molotov",
+      "position": [-1476.6905517578, 916.21502685547, 11776.03125],
+      "viewangles": [-17.951633453369, -135.61679077148],
+      "grenade": {
+        "run": 9
+      }
+    },
+    {
+      "name": ["Spawn", "Double"],
+      "weapon": "weapon_molotov",
+      "position": [-1687.9765625, 735.37951660156, 11776.03125],
+      "viewangles": [-10.658689498901, -154.46528625488]
+    },
+    {
+      "name": ["Fakeduck", "Box"],
+      "weapon": "weapon_molotov",
+      "position": [-1470.5997314453, 630.41839599609, 11873.03125],
+      "viewangles": [-1.9447660446167, -115.19245910645],
+      "duck": true
+    },
+    {
       "name": ["Back of B", "AC Unit [safe]"],
       "weapon": "weapon_molotov",
       "position": [-1496.6214599609, 1000.9692382813, 11776.03125],
