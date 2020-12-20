@@ -198,7 +198,81 @@
     }
   ],
   "de_elysion": [
-  
+      {
+      "name": ["Outside", "Fakeduck"],
+      "weapon": "weapon_molotov",
+      "position": [881.64422607422, -504.00457763672, 9599.53125],
+      "viewangles": [-7.2928290367126, 87.266975402832]
+    },
+    {
+      "name": ["Spawn", "Backsite"],
+      "weapon": "weapon_molotov",
+      "position": [307.48944091797, 791.97052001953, 9728.03125],
+      "viewangles": [-10.771050453186, -86.269424438477]
+    },
+    {
+      "name": ["Long", "Stack 1w"],
+      "weapon": "weapon_molotov",
+      "position": [-554.33874511719, -38.922592163086, 9664.03125],
+      "viewangles": [-23.598943710327, 31.191186904907],
+      "grenade": {
+        "run": 16
+      }
+    },
+    {
+      "name": ["Short", "Stack 1w"],
+      "weapon": "weapon_molotov",
+      "position": [766.02844238281, -93.728507995605, 9600.03125],
+      "viewangles": [-14.772484779358, 131.59754943848],
+      "grenade": {
+        "run": 16,
+        "run_speed": true
+      }
+    },
+    {
+      "name": ["Short", "Wall Fakeduck"],
+      "weapon": "weapon_molotov",
+      "position": [552.20379638672, -378.38354492188, 9600.03125],
+      "viewangles": [-10.808138847351, 56.422653198242],
+      "grenade": {
+        "run": 12
+      }
+    },
+    {
+      "name": ["Short", "Pillar"],
+      "weapon": "weapon_molotov",
+      "position": [632.03509521484, -132.501953125, 9600.03125],
+      "viewangles": [-11.107287406921, 58.516315460205],
+      "grenade": {
+        "run": 16,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Outside", "Spawn"],
+      "weapon": "weapon_molotov",
+      "position": [991.77423095703, 378.05697631836, 9599.53125],
+      "viewangles": [-16.081628799438, 146.87924194336],
+      "grenade": {
+        "run": 29,
+        "run_speed": true
+      }
+    },
+    {
+      "name": ["Long", "Stack 1w"],
+      "weapon": "weapon_hegrenade",
+      "position": [-554.33874511719, -38.922592163086, 9664.03125],
+      "viewangles": [-23.598943710327, 31.191186904907],
+      "grenade": {
+        "run": 16
+      }
+    },
+    {
+      "name": ["Spawn", "Outside"],
+      "weapon": "weapon_molotov",
+      "position": [99.072799682617, 791.96875, 9728.03125],
+      "viewangles": [0.78576707839966, -18.126724243164]
+    }
   ],
   "de_guard": [
     {
