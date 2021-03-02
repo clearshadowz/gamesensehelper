@@ -2,6 +2,8 @@
     "name": "clearshadowz's nades",
     "description": "Nades for Wingman style HVH",
     "locations":    {
+
+{
   "de_cbble": [
     {
       "name": ["Statue", "Behind Tree"],
@@ -80,7 +82,7 @@
       "viewangles": [-16.119247436523, 33.3229637146]
     }
   ],
-  "de_dust": [
+  "de_shortnuke": [
     {
       "name": ["Ramp", "Basket"],
       "weapon": "weapon_molotov",
@@ -948,6 +950,58 @@
       "grenade": {
         "run": 6
       }
+    },
+    {
+      "name": ["Construction", "Behind Pillar"],
+      "weapon": "weapon_molotov",
+      "position": [-1126.0710449219, -622.65753173828, 83.244194030762],
+      "viewangles": [-4.1355557441711, 80.710388183594],
+      "grenade": {
+        "strength": 0.5,
+        "run": 2,
+        "recovery_jump": true,
+        "run_speed": true,
+        "recovery_yaw": -90,
+        "run_yaw": 180,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Construction", "Water"],
+      "weapon": "weapon_molotov",
+      "position": [-1115.2844238281, -638.99346923828, 89.493629455566],
+      "viewangles": [-15.927249908447, 90.461654663086],
+      "grenade": {
+        "recovery_jump": true,
+        "delay": 18,
+        "recovery_yaw": 90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Canal", "Aggressive Nigger in construction"],
+      "weapon": "weapon_molotov",
+      "position": [-413.30169677734, -1001.6699829102, 7.4742736816406],
+      "viewangles": [-50.524272918701, 139.8812713623],
+      "grenade": {
+        "strength": 0.5,
+        "run": 2
+      }
+    },
+    {
+      "name": ["Barrels", "Outside construction"],
+      "weapon": "weapon_molotov",
+      "position": [-829.05334472656, 495.97088623047, 96.03125],
+      "viewangles": [-21.066164016724, -87.061111450195]
+    },
+    {
+      "name": ["Barrels", "Construction corner"],
+      "weapon": "weapon_hegrenade",
+      "position": [-931.29052734375, 495.99118041992, 96.03125],
+      "viewangles": [-14.751880645752, -100.69594573975],
+      "grenade": {
+        "run": 4
+      }
     }
   ],
   "de_train": [
@@ -1206,6 +1260,9 @@
       "duck": true
     }
   ]
+}
+
+
 }
 
 }
