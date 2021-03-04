@@ -2,6 +2,9 @@
     "name": "clearshadowz's nades",
     "description": "Nades n shit for hvh",
     "locations":    {
+  "cs_office": [
+  
+  ],
   "de_cbble": [
     {
       "name": ["Statue", "Behind Tree"],
@@ -274,6 +277,9 @@
         "jump": true
       }
     }
+  ],
+  "de_dust2": [
+  
   ],
   "de_elysion": [
     {
@@ -1097,8 +1103,8 @@
     {
       "name": ["Construction", "Behind Pillar"],
       "weapon": "weapon_molotov",
-      "position": [-1126.0710449219, -622.65753173828, 83.244194030762],
-      "viewangles": [-4.1355557441711, 80.710388183594],
+      "position": [-1126.0864257813, -622.64880371094, 83.235733032227],
+      "viewangles": [-1.7284305095673, 80.662452697754],
       "grenade": {
         "strength": 0.5,
         "run": 2,
@@ -1144,6 +1150,90 @@
       "viewangles": [-14.751880645752, -100.69594573975],
       "grenade": {
         "run": 4
+      }
+    },
+    {
+      "name": ["Construction", "Behind pillar"],
+      "weapon": "weapon_hegrenade",
+      "position": [-1089.8127441406, -529.30633544922, 96.027648925781],
+      "viewangles": [-2.9919970035553, 108.49528503418],
+      "grenade": {
+        "run": 12,
+        "recovery_jump": true,
+        "recovery_yaw": -147,
+        "run_yaw": -120
+      }
+    },
+    {
+      "name": ["Construction", "Water"],
+      "weapon": "weapon_hegrenade",
+      "position": [-1089.8280029297, -529.31750488281, 96.03125],
+      "viewangles": [-6.3920931816101, 117.85499572754],
+      "grenade": {
+        "run": 20,
+        "recovery_yaw": -147,
+        "run_yaw": -120
+      }
+    },
+    {
+      "name": ["Water", "Construction left"],
+      "weapon": "weapon_hegrenade",
+      "position": [-1336.1906738281, 493.34509277344, 25.580406188965],
+      "viewangles": [-18.31609916687, -69.636901855469],
+      "grenade": {
+        "run": 1
+      }
+    },
+    {
+      "name": ["Water", "Moster"],
+      "weapon": "weapon_hegrenade",
+      "position": [-1267.7160644531, 495.95947265625, 38.390907287598],
+      "viewangles": [-3.6423807144165, -42.358028411865],
+      "grenade": {
+        "run": 10
+      }
+    },
+    {
+      "name": ["Water", "Construction"],
+      "weapon": "weapon_molotov",
+      "position": [-1336.1767578125, 493.32797241211, 25.581535339355],
+      "viewangles": [-21.198360443115, -65.942176818848]
+    },
+    {
+      "name": ["Water", "Tunnel prenade"],
+      "weapon": "weapon_hegrenade",
+      "position": [-1336.2440185547, 493.35018920898, 25.567909240723],
+      "viewangles": [-21.638334274292, -88.294258117676],
+      "grenade": {
+        "run": 10
+      }
+    },
+    {
+      "name": ["Water", "Construction"],
+      "weapon": "weapon_hegrenade",
+      "position": [-1336.2679443359, 493.37420654297, 25.561752319336],
+      "viewangles": [-21.132322311401, -80.763175964355],
+      "grenade": {
+        "run": 8
+      }
+    },
+    {
+      "name": ["Bombsite B", "Water"],
+      "weapon": "weapon_hegrenade",
+      "position": [-648.61981201172, 3.2246255874634, 14.494159698486],
+      "viewangles": [-7.9764280319214, 130.16203308105],
+      "grenade": {
+        "run": 20
+      }
+    },
+    {
+      "name": ["Bombsite B", "Water"],
+      "weapon": "weapon_molotov",
+      "position": [-648.59948730469, 3.235657453537, 14.489082336426],
+      "viewangles": [-7.9764513969421, 130.07447814941],
+      "grenade": {
+        "run": 20,
+        "recovery_yaw": 90
       }
     }
   ],
