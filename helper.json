@@ -480,6 +480,165 @@
         "run": 16,
         "recovery_yaw": 90
       }
+    },
+    {
+      "name": ["CT", "Middle Corner"],
+      "weapon": "weapon_molotov",
+      "position": [-459.96875, 685.96875, 9728.03125],
+      "viewangles": [6.5064558982849, -88.459609985352],
+      "grenade": {
+        "run": 10,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Hall", "Outside"],
+      "weapon": "weapon_molotov",
+      "position": [-142.96875, -393.31900024414, 9644.0146484375],
+      "viewangles": [-3.5540299415588, 41.669254302979],
+      "grenade": {
+        "delay": 6,
+        "jump": true
+      }
+    },
+    {
+      "name": ["T", "CT"],
+      "weapon": "weapon_molotov",
+      "position": [-824.63537597656, -1138.6989746094, 9641.357421875],
+      "viewangles": [1.1430455446243, 71.494117736816],
+      "grenade": {
+        "run": 20,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Hall", "Inside Site"],
+      "weapon": "weapon_molotov",
+      "position": [-199.98857116699, -559.99505615234, 9629.03125],
+      "viewangles": [-23.099815368652, 47.341178894043]
+    },
+    {
+      "name": ["Hall", "Stack 1-Way"],
+      "weapon": "weapon_molotov",
+      "position": [-142.96875, -455.96875, 9600.03125],
+      "viewangles": [-46.250640869141, 60.752826690674],
+      "grenade": {
+        "run": 6,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Hall", "Pillar"],
+      "weapon": "weapon_molotov",
+      "position": [-55.845909118652, -591.65899658203, 9600.03125],
+      "viewangles": [-10.792367935181, 67.349807739258],
+      "grenade": {
+        "run": 6,
+        "delay": 6,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Hall", "Outside Site"],
+      "weapon": "weapon_molotov",
+      "position": [-199.9493560791, -560.00817871094, 9629.03125],
+      "viewangles": [-22.342323303223, 45.443561553955]
+    },
+    {
+      "name": ["Hall", "Plant (close)"],
+      "weapon": "weapon_molotov",
+      "position": [-142.96746826172, -393.31838989258, 9644.0146484375],
+      "viewangles": [-47.89427947998, 31.812364578247],
+      "grenade": {
+        "run": 20,
+        "run_yaw": 90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Hall", "Plant (close)"],
+      "weapon": "weapon_hegrenade",
+      "position": [-142.97412109375, -393.31231689453, 9644.0146484375],
+      "viewangles": [-53.631725311279, 20.6732006073],
+      "grenade": {
+        "run": 19,
+        "run_yaw": 75,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Hall", "A Entrance"],
+      "weapon": "weapon_molotov",
+      "position": [-129.33343505859, -587.21301269531, 9600.03125],
+      "viewangles": [-44.314586639404, 70.338554382324],
+      "grenade": {
+        "run": 19,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Connector", "Pillar"],
+      "weapon": "weapon_molotov",
+      "position": [-327.84710693359, 44.85546875, 9664.03125],
+      "viewangles": [8.5075845718384, 29.258298873901],
+      "grenade": {
+        "run": 18,
+        "recovery_yaw": 90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Middle", "Main Hall"],
+      "weapon": "weapon_molotov",
+      "position": [-844.99346923828, 220.79699707031, 9686.431640625],
+      "viewangles": [12.610969543457, -7.4530096054077],
+      "grenade": {
+        "run": 25,
+        "recovery_yaw": 90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["CT", "Back Site"],
+      "weapon": "weapon_molotov",
+      "position": [178.77383422852, 743.52575683594, 9728.03125],
+      "viewangles": [-15.527683258057, -28.860313415527],
+      "grenade": {
+        "run": 18
+      }
+    },
+    {
+      "name": ["CT", "Inner Site (close)"],
+      "weapon": "weapon_molotov",
+      "position": [178.73678588867, 743.51495361328, 9728.03125],
+      "viewangles": [-10.099210739136, -25.895980834961],
+      "grenade": {
+        "run": 6
+      }
+    },
+    {
+      "name": ["Balcony", "Main Hall Connector"],
+      "weapon": "weapon_molotov",
+      "position": [447.98248291016, 659.43286132813, 9771.03125],
+      "viewangles": [11.973607063293, -108.91706085205],
+      "grenade": {
+        "run": 6,
+        "recovery_jump": true,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Hall", "Outside FD"],
+      "description": "UNSAFE",
+      "weapon": "weapon_molotov",
+      "position": [548.66864013672, -344.63949584961, 9600.03125],
+      "viewangles": [12.512568473816, 88.435844421387],
+      "grenade": {
+        "run": 19,
+        "recovery_jump": true,
+        "run_yaw": -61,
+        "jump": true
+      }
     }
   ],
   "de_guard": [
